@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DataSoft</key>
+	<dict>
+		<key>iOS</key>
+		<dict>
+			<key>Nuibb</key>
+			<string>Senior Software Engineer</string>
+			<key>Tanvir</key>
+			<string>Software Developer</string>
+			<key>Zihan</key>
+			<string>Software Engineer</string>
+			<key>Sami</key>
+			<string>Software Developer</string>
+			<key>Sujon</key>
+			<string>Software Developer</string>
+		</dict>
+		<key>Android</key>
+		<dict>
+			<key>Raman</key>
+			<string>Senior Software Engineer</string>
+			<key>Rabiun</key>
+			<string>Software Developer</string>
+			<key>Rohan</key>
+			<string>Software Developer</string>
+			<key>Ovi</key>
+			<string>Software Developer</string>
+			<key>Nirob</key>
+			<string>Software Developer</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
